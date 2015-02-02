@@ -1,2 +1,2 @@
-# bootstrap_fields
+# bootstrap-fields
 Silverstripe Twitter Bootstrap Fields
