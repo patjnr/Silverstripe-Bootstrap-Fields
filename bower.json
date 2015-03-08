@@ -1,0 +1,30 @@
+{
+  "name": "Silverstripe Twiiter Bootstrap Fields",
+  "version": "1.0.0",
+  "homepage": "https://github.com/patjnr/bootstrap-fields",
+  "authors": [
+    "Itayi Patrick Chitovoro <patrick@chitosystems.com>"
+  ],
+  "description": "Silverstripe fields wrapped in Twitter Bootstrap markup",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Silverstripe",
+    "Twitter",
+    "bootstrap",
+    "Silverstripe",
+    "fields"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "~4.7.14"
+  }
+}
