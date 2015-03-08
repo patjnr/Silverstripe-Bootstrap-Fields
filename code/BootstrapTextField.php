@@ -38,8 +38,13 @@ class BootstrapTextField extends TextField
 
     public function extraClasses()
     {
-        $classes = array($this->columnWidth,'field', 'form-control', parent::extraClasses());
+        $classes = array('field', 'form-control', parent::extraClasses());
         return implode(' ', $classes);
+    }
+
+    public function columnWidth()
+    {
+        return $this->columnWidth;
     }
 
 }
