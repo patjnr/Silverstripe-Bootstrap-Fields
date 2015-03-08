@@ -1,6 +1,6 @@
 {
   "name": "patjnr/bootstrap-fields",
-  "description": "Allows you to add a html and css wrapper around normal SilverStripe form fields inroder to make the fields markup compatible with Twitter Bootstrap.",
+  "description": "Allows you to add a html and css wrapper around normal SilverStripe form fields. The fields markup will be compatible with Twitter Bootstrap.",
   "type": "silverstripe-module",
   "keywords": ["silverstripe", "bootstrap", "forms", "twitter"],
   "license": "BSD-3-Clause",
